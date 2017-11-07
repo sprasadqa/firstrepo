@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is B6BD-EA8C
+
+ Directory of C:\Users\windows\Desktop\STH
+
+07-11-2017  21:51    <DIR>          .
+07-11-2017  21:51    <DIR>          ..
+07-11-2017  21:51                 0 t1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  41,036,058,624 bytes free
